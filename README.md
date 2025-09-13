@@ -1,6 +1,6 @@
 # Hi I'm Faishal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
-I'm a Fullstack Engineer with more than 5 years of experiences. Experienced in using `React`, `Next.JS`, `React Native`, `NestJS` and other javascript framework using `Typescript`, with multiple styling framework such as `SASS`, `Tailwind`, `Styled Components`, `ShadcnUI` etc.
+I'm a Fullstack Engineer with more than 5 years of experiences. Experienced in using `React`, `Next.JS`, `React Native`, `NestJS` and other javascript framework using `Typescript`, with multiple styling framework such as `SASS`, `Tailwind`, `Styled Components`, `ShadcnUI`, etc.
 
 ## Experiences :office:
 
