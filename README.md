@@ -1,71 +1,25 @@
-# Hi I'm Faishal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%">
+# Hi I'm Faishal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
-<img src="./assets/location.svg" width="4%">
-<img src="./assets/email.svg" width="4%">
-<img src="./assets/linkedin.svg" width="4%">
+I'm a Fullstack Engineer with more than 5 years of experiences. Experienced in using `React`, `Next.JS`, `React Native`, `NestJS` and other javascript framework using `Typescript`, with multiple styling framework such as `SASS`, `Tailwind`, `Styled Components`, `ShadcnUI` etc.
 
-## Skills
-- 
+## Experiences :office:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-# Example headings
-
-## Sample Section
-
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
-
-## This heading is not unique in the file
-
-TEXT 1
-
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
-
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
-
-[A link to that custom anchor](#my-custom-anchor-point)
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+<img align="top" alt="Jitera" src="./assets/jitera_logo.jpeg" width="24px">&nbsp;&nbsp;**Fullstack Developer**  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Jitera  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Apr 2024 - Present  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Skills: `React`, `Next.JS`, `React Native`, `NestJS`, `Typescript`, `Tailwind`, `ShadcnUI`  
+<br/>
+<img align="top" alt="Accelbyte" src="./assets/accelbyte_inc_logo.jpeg" width="24px">&nbsp;&nbsp;**Frontend Engineer**  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Accelbyte  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Jul 2022 - Mar 2024 (1 year 8 months)  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Skills: `React`, `Next.JS`, `ElectronJS`, `Typescript`, `Tailwind`  
+<br/>
+<img align="top" alt="Shipper" src="./assets/shipper_indonesia_logo.jpeg" width="24px">&nbsp;&nbsp;**Senior Frontend Engineer**  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Shipper  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Jul 2021 - Jul 2022 (1 year)  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Skills: `React`, `Next.JS`, `Typescript`, `Tailwind`, `SASS`, `Styled Components`  
+<br/>
+<img align="top" alt="Shipper" src="./assets/shipper_indonesia_logo.jpeg" width="24px">&nbsp;&nbsp;**Frontend Engineer**  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Shipper  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Sep 2019 - Jul 2021 (1 year 11 months)  
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="24px" height="1px">&nbsp;&nbsp;Skills: `React`, `Next.JS`, `Javascript`, `Typescript`, `Tailwind`, `SASS`, `Styled Components`
