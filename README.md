@@ -1,6 +1,6 @@
 # Hi I'm Faishal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
-I'm a Fullstack Engineer with more than 5 years of experiences. Experienced in using `React`, `Next.JS`, `React Native`, `Typescript`, with multiple styling framework such as `SASS`, `Tailwind`, `Styled Components`, `ShadcnUI`, and more for the Frontend. Also experienced in `NestJS`, `PostgreSQL`, `MySQL`, and `Supabase` for the Backend.
+I'm a Fullstack Engineer with more than 6 years of experiences. Experienced in using `React`, `Next.JS`, `React Native`, `Typescript`, with multiple styling framework such as `SASS`, `Tailwind`, `Styled Components`, `ShadcnUI`, and more for the Frontend. Also experienced in `NestJS`, `PostgreSQL`, `MySQL`, and `Supabase` for the Backend.
 
 ## Experiences :office:
 
